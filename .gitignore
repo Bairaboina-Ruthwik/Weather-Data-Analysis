@@ -5,7 +5,6 @@ __pycache__/
 venv/
 env/
 .ipynb_checkpoints/
-outputs/
 .DS_Store
 Thumbs.db
 .vscode/
